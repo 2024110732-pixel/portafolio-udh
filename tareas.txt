@@ -1,0 +1,5 @@
+Estudiar Ingenieria de Software
+Practicar Git y GitHub
+Realizar proyectos universitarios
+Aprender a trabajar con ramas en Git
+Practicar la colaboracion mediante GitHub
